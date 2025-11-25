@@ -5,7 +5,6 @@
 Welcome to my GitHub profile.  
 I am passionate about **networking, Linux, system administration, UI/UX design, and cloud technologies**.  
 I enjoy creating clean designs, solving IT problems, and helping Somali learners grow in tech.
-<img src="https://www.freepik.com/free-photos-vectors/person-svg/50" alt="Person SVG">
 ---
 
 ## 🌟 About Me
